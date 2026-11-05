@@ -1,4 +1,4 @@
-package calculator.ui;
+package calculator;
 
 import javax.swing.*;
 import java.awt.*;

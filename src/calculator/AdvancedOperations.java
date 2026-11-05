@@ -1,5 +1,5 @@
 
-package calculator.operations;
+package calculator;
 
 public class AdvancedOperations {
 
